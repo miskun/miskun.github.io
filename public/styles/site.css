@@ -1,0 +1,24 @@
+html, body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #000;
+    color: #fff;
+}
+
+.wrapper{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo{
+    background: url(../images/logo-white.svg) no-repeat center center;
+    width: 15%;
+    height: 15%;
+}
